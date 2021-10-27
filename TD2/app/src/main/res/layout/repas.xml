@@ -2,6 +2,37 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/text1"
+        android:hint="Entrée"
+        android:layout_width="500dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/text2"
+        android:hint="Plat"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text1"
+        android:layout_marginTop="50dp"/>
+    <CheckBox
+        android:id="@+id/check1"
+        android:text="Fromage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text2"
+        android:layout_alignLeft="@id/text2"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="25dp"/>
+    <CheckBox
+        android:id="@+id/check2"
+        android:text="Fruit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text2"
+        android:layout_alignRight="@id/text2"
+        android:layout_marginRight="75dp"
+        android:layout_marginTop="25dp"/>
     <Button
         android:id="@+id/button1" android:text="BTN1"
         android:layout_width="wrap_content"

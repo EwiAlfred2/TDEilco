@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/I hate this/TDEilco/TD2/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
         <entry key="..\:/I hate this/TDEilco/TD2/app/src/main/res/layout/calendar.xml" value="0.36666666666666664" />
-        <entry key="..\:/I hate this/TDEilco/TD2/app/src/main/res/layout/relativelayout.xml" value="0.2015625" />
+        <entry key="..\:/I hate this/TDEilco/TD2/app/src/main/res/layout/constraintlayout.xml" value="0.36666666666666664" />
+        <entry key="..\:/I hate this/TDEilco/TD2/app/src/main/res/layout/relativelayout.xml" value="0.33" />
+        <entry key="..\:/I hate this/TDEilco/TD2/app/src/main/res/layout/repas.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/spook/AndroidStudioProjects/TD2/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/spook/AndroidStudioProjects/TD2/app/src/main/res/layout/calendar.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/spook/AndroidStudioProjects/TD2/app/src/main/res/layout/relativelayout.xml" value="0.20520833333333333" />
@@ -17,5 +19,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
   </component>
 </project>
