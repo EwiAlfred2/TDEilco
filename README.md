@@ -1,3 +1,3 @@
 TDEilco
 
-Groupe | Emeric Boulay
+Groupe | Emeric Boulay ; Joris Numa
